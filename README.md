@@ -5,9 +5,10 @@
 I'm a computer science student who is passionate about writing code, building websites and other fun stuff!
 
 - 📖 Engineering student at ESIREM.
-- 💻 I mainly program with Node.JS and other web technologies (React, Express, PHP, CSS, JS, HTML, ...).
-- 🔗 My website: [gauthier-thomas.dev](https://gauthier-thomas.dev)
-- 📫 Contact me: [mail](mailto:mail@gauthier-thomas.dev)
+- 💻 I mainly program with Node.JS and other web technologies (React, Express, Node.js, PHP, CSS, ...).
+- 🔗 My personnal website: [gauthierth.fr](https://gauthierth.fr)
+- 🔗 My professional website: [gauthier-thomas.dev](https://gauthier-thomas.dev)
+- 📫 Contact me: [mail@gauthierth.fr](mailto:mail@gauthierth.fr) or [mail@gauthier-thomas.dev](mailto:mail@gauthier-thomas.dev)
 
 ### Languages and Tools: 
 
