@@ -7,7 +7,7 @@ I'm a computer science student who is passionate about writing code, building we
 - 📖 Engineering student at ESIREM.
 - 💻 I mainly program with Node.js and other web technologies (React, Express, Node.js, ...).
 - 🔗 My websites: [gauthierth.fr](https://gauthierth.fr) & [gauthier-thomas.dev](https://gauthier-thomas.dev)
-- 📫 Contact me: [mail@gauthierth.fr](mailto:mail@gauthierth.fr) or [mail@gauthier-thomas.dev](mailto:mail@gauthier-thomas.dev)
+- 📫 Contact me: [mail@gauthierth.fr](mailto:mail@gauthierth.fr)
 
 ### Languages and Tools: 
 
