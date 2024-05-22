@@ -3,6 +3,7 @@
 <img width="25%" align="right" alt="Gauthier" src="https://gauthier-thomas.dev/img/GT2.svg" />
 
 I'm a computer science student who is passionate about writing code, building websites and other fun stuff!
+I'm currently doing an internship in the ICB research laboratory in the field of vision and artificial intelligence.
 
 - 📖 Engineering student at ESIREM.
 - 💻 I mainly program with Node.js and other web technologies (React, Express, Node.js, ...).
