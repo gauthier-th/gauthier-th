@@ -2,13 +2,15 @@
 
 <img width="25%" align="right" alt="Gauthier" src="https://gauthier-thomas.dev/img/GT2.svg" />
 
-I'm a computer science student who is passionate about writing code, building websites and other fun stuff!
-I'm currently doing an internship in the ICB research laboratory in the field of vision and artificial intelligence.
+I'm Gauthier, a PhD student in the field of AI at the ICB laboratory, in Dijon, France.
+My research focuses on the automatic recognition of food-related emotions using Artificial Intelligence.
 
-- 📖 Engineering student at ESIREM.
-- 💻 I mainly program with Node.js and other web technologies (React, Express, Node.js, ...).
-- 🔗 My websites: [gauthierth.fr](https://gauthierth.fr) & [gauthier-thomas.dev](https://gauthier-thomas.dev)
-- 📫 Contact me: [mail@gauthierth.fr](mailto:mail@gauthierth.fr)
+I'm also passionate about web development, which I've been practicing for several years as a freelancer as well as in my spare time.
+
+- 📖 PhD student at ICB, Dijon, France.
+- 💻 In my spare I'm doing web stuff (React, Express.js, Next.js, ...).
+- 🔗 My website: [gauthierth.fr](https://gauthierth.fr)
+- 📫 Contact me: [mail@gauthierth.fr](mailto:mail@gauthierth.fr) (personal) or [gauthier.thomas@u-bourgogne.fr](mailto:gauthier.thomas@u-bourgogne.fr) (university)
 
 ### Languages and Tools: 
 
